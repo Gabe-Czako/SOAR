@@ -81,9 +81,11 @@ And let it rise.
 ---
 ## Read the Book
 
-- 📘 [View the full book in Markdown](./SOAR 1.00.md)  
+- 📘 [View the full book in PDF](https://raw.githubusercontent.com/gabe-czako/SOAR/main/SOAR1.00.pdf)  
+- 📘 [View the full book in Markdown](https://raw.githubusercontent.com/gabe-czako/SOAR/main/SOAR1.00.md)  
+- 📘 [View the README in PDF](https://raw.githubusercontent.com/gabe-czako/SOAR/main/README.pdf)  
 - 🌐 GitHub Pages version (coming soon)  
-- 📥 [Download PDF or EPUB version](./releases) *(optional)*
+
 
 ---
 ## Extending This Framework Responsibly
